@@ -15,3 +15,5 @@ function myFunction() {
     navbar.classList.remove("sticky");
   }
 }
+
+// Add more JS in here for more cool effects 
